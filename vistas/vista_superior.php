@@ -22,7 +22,15 @@
             <a href="./Refrigeracion.php">Refrigeración</a>
             <a href="./Mantenimiento.php">Mantenimiento</a>
         </div>
-        
+
+        <div class="menu_container">
+            <div class="hamburger-icon">
+                <span ></span>
+                <span ></span>
+                <span ></span>
+            </div>
+        </div>
+            
         </menu>
       </header>
 
